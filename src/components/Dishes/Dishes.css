@@ -1,0 +1,52 @@
+.container  {
+    margin: 0 auto;
+    width: 1200px;
+}
+h2,h4 {
+    margin: 0;
+
+}
+
+.Dishes_Block h4 {
+    color:black;
+}
+
+
+
+.DishesBlock{
+    width: 50%;
+    display: inline-block;
+}
+
+.add-dishes{
+    width: 50%;
+    height: 40px;
+    background: #703b09;
+    color: white;
+    border: none;
+    float: right;
+}
+
+.form{
+    padding: 29px 17px;
+}
+
+.add_text{
+    color: black;
+    text-align: center;
+}
+
+.Dishes_Block{
+    margin: 15px 0;
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid #007bff;
+    padding: 30px;
+}
+
+.img {
+    display: block;
+    vertical-align: middle;
+    border-style: none;
+    width: 50px;
+}
